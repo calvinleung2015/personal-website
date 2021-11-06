@@ -84,7 +84,7 @@ background: #202020;
 /* home section styling */
 .home{
     display: flex;
-    background: url("photo/IMG_0087.JPG") no-repeat center;
+    background: url("photo/home-pic.jpg") no-repeat center;
     background-size: 150%;
     height: 100vh;
     color: #111;
